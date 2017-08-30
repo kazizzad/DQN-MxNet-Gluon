@@ -1,2 +1,2 @@
-# DCGAN-Gluon-MxNet
-## Gloun version of DCGAN
+# DQN-Gluon-MxNet
+## Gloun version of DQN
